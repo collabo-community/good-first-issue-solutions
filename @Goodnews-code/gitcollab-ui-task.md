@@ -6,7 +6,7 @@ Hi, I'm @Goodnews-code. I'm currently learning to collaborate with Git and GitHu
 
 Unordered list used for listing markdown examples below:
 - Link: [This link text will take you to Collabo Community's Github Page when you click on it!](https://github.com/collabo-community)
-- Inline Code Block: `This code block text will show up inline`.
+- Inline Code Block (with non-code text): `This code block text will show up inline.` This part of the text is just ordinary text!
 - Bold text: **This text will show up as a Bold Text**
 - Code Block:
 ````
