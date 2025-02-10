@@ -1,6 +1,6 @@
-# @Goodnews-code's markdown tutorial
+# @BA-atomic's markdown tutorial
 
-Hi, I'm @Goodnews-code. I'm currently learning to collaborate with Git and GitHub. I'm currently learning to do so at @collabo-community. In the next section below, I will show you how to format a .md file content using GitHub markdown. I will be doing this **using Command Line Git**. Let's go there! 💪🏽
+Hi, I'm @BA-atomic. I'm currently learning to collaborate with Git and GitHub. I'm currently learning to do so at @collabo-community. In the next section below, I will show you how to format a .md file content using GitHub markdown. I will be doing this using **Command Line Git**. Let's go there! 💪🏽
 
 #
 
