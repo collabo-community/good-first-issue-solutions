@@ -6,7 +6,6 @@ Hi, I'm @OpeyemiAdeniji. I'm currently learning to collaborate with Git and GitH
 
 Unordered list used for listing markdown examples below:
 - Link: [This link text will take you to Collabo Community's Github Page when you click on it!](https://github.com/collabo-community)
-- Inline Code Block (with non-code text): `This code block text will show up inline.` This part of the text is just ordinary text! Do you notice the difference?
 - Inline Code Block: `This code block text will show up inline`. Do you notice the difference?
 - Bold text: **This text will show up as a Bold Text**
 - Code Block:
