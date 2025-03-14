@@ -1,6 +1,6 @@
-# @OpeyemiAdeniji's markdown tutorial
+# @KBandipo's markdown tutorial
 
-Hi, I'm @OpeyemiAdeniji. I'm currently learning to collaborate with Git and GitHub. I'm currently learning to do so at @collabo-community. In the next section below, I will show you how to format a .md file content using GitHub markdown. I will be doing this from the **GitHub Web Interface**. Let's go there! 💪🏽
+Hi, I'm @KBandipo. I'm currently learning to collaborate with Git and GitHub. I'm currently learning to do so at @collabo-community. In the next section below, I will show you how to format a .md file content using GitHub markdown. I will be doing this from the **GitHub Web Interface**. Let's go there! 💪🏽
 
 #
 
