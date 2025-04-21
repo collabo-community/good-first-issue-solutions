@@ -10,7 +10,7 @@ Unordered list used for listing markdown examples below:
 - Bold text: **This text will show up as a Bold Text**
 - Code Block:
 ````
-This code block text will show up as a separate block
+This code block text will show up as a separate block.
 ````
 - Quote:
 > This text will show up as a quote
