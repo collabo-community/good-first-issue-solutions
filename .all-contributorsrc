@@ -29,6 +29,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Goodnews-code",
+      "name": "Egbewale Jesutofunmi Goodnews",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178202523?v=4",
+      "profile": "https://github.com/Goodnews-code",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "commitConvention": "angular",
