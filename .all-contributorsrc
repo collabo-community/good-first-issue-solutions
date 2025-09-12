@@ -20,6 +20,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "elizabethobiagba",
+      "name": "elizabethobiagba",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200608744?v=4",
+      "profile": "https://github.com/elizabethobiagba",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "angular",
