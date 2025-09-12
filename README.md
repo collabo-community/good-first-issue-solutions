@@ -15,7 +15,8 @@ Awesome participants who completed our "good first issue [GIT & GITHUB WORKFLOW]
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="16.66%"><a href="https://github.com/Oyebliss"><img src="https://avatars.githubusercontent.com/u/148455956?v=4?s=100" width="100px;" alt="Olatunji Sodiq Oyebisi "/><br /><sub><b>Olatunji Sodiq Oyebisi </b></sub></a><br /><a href="https://github.com/collabocate-osc/good-first-issue-solutions/commits?author=Oyebliss" title="Code">💻</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="https://github.com/Oyebliss"><img src="https://avatars.githubusercontent.com/u/148455956?v=4?s=100" width="100px;" alt="Olatunji Sodiq Oyebisi "/><br /><sub><b>Olatunji Sodiq Oyebisi </b></sub></a><br /><a href="https://github.com/collabocate-osc/good-first-issue-GIT-solutions/commits?author=Oyebliss" title="Code">💻</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="https://github.com/elizabethobiagba"><img src="https://avatars.githubusercontent.com/u/200608744?v=4?s=100" width="100px;" alt="elizabethobiagba"/><br /><sub><b>elizabethobiagba</b></sub></a><br /><a href="https://github.com/collabocate-osc/good-first-issue-GIT-solutions/commits?author=elizabethobiagba" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
