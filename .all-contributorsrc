@@ -47,6 +47,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "BA-atomic",
+      "name": "BA-atomic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187220407?v=4",
+      "profile": "https://github.com/BA-atomic",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "commitConvention": "angular",
